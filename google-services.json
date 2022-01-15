@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550832603696",
+    "project_id": "besavvy-17ac1",
+    "storage_bucket": "besavvy-17ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550832603696:android:5f1a5e60f01df143b863f5",
+        "android_client_info": {
+          "package_name": "com.example.besavvy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550832603696-labkpba92q0d9pq965qmcq9rtothfs7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0V2ipvBJpwIsBvpojTuu-VkEmwQbCGNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550832603696-labkpba92q0d9pq965qmcq9rtothfs7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
